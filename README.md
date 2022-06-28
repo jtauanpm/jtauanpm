@@ -2,6 +2,10 @@
 <h4 align="center">A computer student fascinated by technology 💻</h4>
 
 <details>
+<summary> <b> Things to know about me! (click to expand!) 🖱️ </b> </summary>
+<br>
+
+<details>
   <summary> <b> Click here to know me better 🙈 </b> </summary>
   <h5> Thanks for your interest ! 😁 Come on ... </h5>
     <p> I am fascinated by technology and interested in the more technical and logical part of programming,
@@ -71,3 +75,4 @@ so I'm studying software development with a focus on the backend.</p>
   <a href="https://wa.me/558399610245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+5583999610245" height="30" width="40" /></a>
   <a href="https://discord.gg/jtauanpm#2925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jtauanpm#2925" height="30" width="40" /></a>
 </p>
+</details>
