@@ -1,6 +1,5 @@
 <h3 align="center">Hello there ! I'm Jonathan ! 👋</h3>
 <h4 align="center">A computer student fascinated by technology 💻</h4>
-<img align='right' src="https://github.com/jtauanpm/jtauanpm/blob/main/octocat" width=180em>
 
 <details>
 <summary> <b> Things to know about me! (click to expand!) 🖱️ </b> </summary>
