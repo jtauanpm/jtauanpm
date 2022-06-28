@@ -1,5 +1,6 @@
 <h3 align="center">Hello there ! I'm Jonathan ! 👋</h3>
 <h4 align="center">A computer student fascinated by technology 💻</h4>
+<img align='right' src="https://github.com/jtauanpm/jtauanpm/blob/main/octocat" width=180em>
 
 <details>
 <summary> <b> Things to know about me! (click to expand!) 🖱️ </b> </summary>
@@ -60,7 +61,6 @@ so I'm studying software development with a focus on the backend.</p>
 
 <div align="center">
   <a href="https://github.com/jtauanpm">
-  <img align='right' src="https://github.com/jtauanpm/jtauanpm/blob/main/octocat" width=180em>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtauanpm&layout=compact&langs_count=7&theme=codeSTACKr"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jtauanpm&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 </div>
