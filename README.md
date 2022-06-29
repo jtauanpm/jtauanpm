@@ -18,7 +18,7 @@ so I'm studying software development with a focus on the backend.</p>
 <h4 align="center">Technologies with which I have already had some contact 📱</h4>
 
 <div align="center">
-  <h4 align="center">Front-end - Back-end - Databases </h4>
+  <h4 align="center">Front-end - Back-end</h4>
       <img alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -38,14 +38,16 @@ so I'm studying software development with a focus on the backend.</p>
   <img alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="c" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
-  <img height="35" width="35" src="https://icongr.am/feather/minus.svg?size=148&color=fffafa"/>
+  
+  <h4>Databases - Tools and others:</h4>
   
   <img alt="mongo" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img alt="mysql" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img alt="sqlserver" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
    <img alt="postgress" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
   
-  <h4>Tools and others:</h4>
+  <img height="35" width="35" src="https://icongr.am/feather/minus.svg?size=148&color=fffafa"/>
+  
   <img alt="npm" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   <img alt="GIT" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
