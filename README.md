@@ -44,6 +44,7 @@ so I'm studying software development with a focus on the backend.</p>
   
   <img height="35" width="35" src="https://icongr.am/feather/minus.svg?size=148&color=fffafa"/>
   
+  <img alt="redis" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>        
   <img alt="npm" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   <img alt="GIT" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
