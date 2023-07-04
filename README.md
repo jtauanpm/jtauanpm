@@ -1,18 +1,11 @@
 <h3 align="center">Hello there ! I'm Jonathan ! 👋</h3>
-<h4 align="center">A computer student fascinated by technology 💻</h4>
+<h4 align="center">A computer student fascinated by technology and software architecture 💻</h4>
 
 <details>
 <summary> <b> Things to know about me! (click to expand!) 🖱️ </b> </summary>
-<br>
-
-<details>
-  <summary> <b> Click here to know me better 🙈 </b> </summary>
-  <h5> Thanks for your interest ! 😁 Come on ... </h5>
-    <p> I am fascinated by technology and interested in the more technical and logical part of programming,
-so I'm studying software development with a focus on the backend.</p>
-<p> In the future, I want to specialize in the back-end and in addition, I think about studying information security. </p> 
-<p> I am currently a student of the Bachelor's Degree in Information Systems at UFRN, having previously attended two periods of the Computer Science course at UEPB.</p>
-</details>
+  <br>
+    <p> Experienced Full Stack Software Engineer specializing in Back-end development. Passionate about technology, software architecture, and large-scale projects. Skilled in C#, ASP.NET, SQL, Angular, TypeScript, Redis, Go, Docker, microservices, testing, DDD, and design patterns. <br> <br>
+      Interested in Open Source, Cloud, DevOps, CI/CD, information security, and agile practices. Committed to continuous learning and delivering high-quality solutions. Goal-oriented professional dedicated to driving the success and advancement of computer systems.</p>
 <hr>
 
 <h4 align="center">Technologies with which I have already had some contact 📱</h4>
