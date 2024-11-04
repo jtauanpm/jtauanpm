@@ -46,13 +46,14 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtauanpm&layout=compact&langs_count=7&theme=codeSTACKr"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jtauanpm&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 </div>
-
+    
+<!--
 <h4 align="center">Connect with me:</h4>
 
 <p align="center">
   <a href="mailto:jtauan10@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/79918787/176289888-ec9a21b5-74e2-4954-beea-336d648e0af4.png" alt="jtauan10@gmail.com" height="30" width="33" /></a>
   <a href="https://linkedin.com/in/jtauanpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jtauanpm" height="30" width="40" /></a>
-  <!--
+  
   <a href="https://instagram.com/jtauanpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jtauanpm" height="30" width="40" /></a>
   <a href="https://twitter.com/jtauanpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jtauanpm" height="30" width="40" /></a>
   <a href="https://wa.me/558399610245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+5583999610245" height="30" width="40" /></a>
